@@ -3,7 +3,7 @@ https://uniotto.org/
 
 ## Getting Started
 
-1. `code npm run server`
+1. ```code npm run server```
 2. 
 
 ## Branchs
